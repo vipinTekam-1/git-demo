@@ -1,1 +1,2 @@
 This is first txt
+n this guide, we’ve covered important aspects of managing Git history through rebase and reflog. We’ve learned how rebase can help maintain a cleaner, more linear project history, and how reflog can help recover lost commits or changes.
